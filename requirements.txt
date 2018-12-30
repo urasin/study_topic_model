@@ -1,0 +1,4 @@
+ipython
+pycodestyle
+autopep8
+mecab-python3
